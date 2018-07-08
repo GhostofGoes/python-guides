@@ -25,15 +25,21 @@ References ("cheat sheets")
    2. Sphinx docs (`link <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_)
 
 
+Formatting
+==========
+PEP 257: Docstring Conventions (`link <https://www.python.org/dev/peps/pep-0257/>`_)
+
+PEP 8: Style Guide for Python code (`link <https://www.python.org/dev/peps/pep-0008/>`_)
+
+Formatters
+++++++++++
+``black``: The uncompromising code formatter (`link <https://github.com/ambv/black>`_)
+``yapf``: Yet Another Python Formatter, by Google (`link <https://github.com/google/yapf>`_)
+
 
 
 Other Tools & Resources
 =======================
 
 ``pyup``: checks if there are any known security issues with your dependencies (`link <https://pyup.io/>`_)
-
-Formatters
-++++++++++
-``black``: The uncompromising code formatter (`link <https://github.com/ambv/black>`_)
-``yapf``: Yet Another Python Formatter, by Google (`link <https://github.com/google/yapf>`_)
 
