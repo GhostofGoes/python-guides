@@ -1,0 +1,18 @@
+
+Some ideas I've been wanting to do for a while:
+
+* Collection of non-code stuff that's nice to know and is up to date, targeted to newbies. 
+Want to try to ease over the often conflicting tribal knowledge found on SO/etc., 
+and platform differences (e.g. use python -m pip install --user instead of pip install or sudo -H pip install)
+
+* Some examples with explanations and rationale of common things people new to python may be confused by (like with open we were discussion)
+
+* Python project how-to. 
+Packaging, documentation, collaboration, licenses, testing, tools like Cookiecutter, changelog, etc. 
+While it is not all Python-specific, I think it would be useful for a lot of people in this community, especially since it can be really overwhelming. 
+
+Might split this into multiple guides: documentation, packaging and deployment, testing, projects.
+
+* 2 vs 3: concise summary of rationale and explanation of why to use 3, and a guide on porting old code.
+
+* Cross-platform development
