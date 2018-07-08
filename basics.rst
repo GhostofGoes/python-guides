@@ -4,6 +4,38 @@
 Want to try to ease over the often conflicting tribal knowledge found on SO/etc., 
 and platform differences (e.g. use python -m pip install --user instead of pip install or sudo -H pip install)
 
+Python Quickstart
+=================
+
+Install Python
+++++++++++++++
+Windows
+OSX
+Linux
+
+Hello World!
+++++++++++++
+
+
+Basic concepts
+==============
+
+
+Lists
++++++
+
+.. code-block:: python
+
+   for item in list:
+      print(item)
+
+
+.. code-block:: python
+
+   for index in range(len(list)):
+      print(list[index])
+
+
 
 Packages
 ========
