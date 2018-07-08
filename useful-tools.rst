@@ -6,7 +6,7 @@
 
 Development tools
 =================
-``pudb``: Console-based visual debugger for Python. ([link](https://pypi.org/project/pudb/))
+``pudb``: Console-based visual debugger for Python. (`link <https://pypi.org/project/pudb/>`_)
 (Only works on Linux and possibly OSX)
 
 

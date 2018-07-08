@@ -8,6 +8,7 @@ Time asyncio functions
 ======================
 
 .. code-block:: python
+
    >>> import time
    >>>
    >>> def timeit(coro):

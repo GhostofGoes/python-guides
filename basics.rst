@@ -54,6 +54,7 @@ What is pip?
 What can you do with it?
 
 `python -m pip install --user`
+Doing the -m thingy gets you around annoying issues, and --user means you don't have to use sudo
 
 
 Windows
@@ -61,8 +62,11 @@ Linux
 OSX
 
 
-ensurepip
+ensurepip 
+``python -m ensurepip`` (possibly as sudo)
+
 apt/yum/dnf/zypper
+
 The Ubuntu (and possibly Debian) special snowflake edge case.
 
 

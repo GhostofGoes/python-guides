@@ -26,8 +26,14 @@ PyCharm
 
 Configuring your setup
 ======================
-PyCharm
 
+PyCharm
++++++++
+
+Settings -> Project Interpreter -> gear icon -> Add -> Then select a new environment
+You can use Pycharm's default folder or select your own
+You can mange packages from the same area in settings
+Or open a terminal and activate the environment yourself
 
 
 This guide is dedicated to ClayTheArc.

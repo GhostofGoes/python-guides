@@ -20,16 +20,20 @@ Documentation
 
 reStructuredTest (rst)
 
-Cheat Sheets
-   1. [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst)
-   2. [Sphinx docs](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
+References ("cheat sheets")
+   1. rst-cheatsheet (`link <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_)
+   2. Sphinx docs (`link <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_)
 
 
 
 
-Other Tools and Resources
+Other Tools & Resources
+=======================
 
+``pyup``: checks if there are any known security issues with your dependencies (`link <https://pyup.io/>`_)
 
-pyup: checks if there are any known security issues with your dependencies [link](https://pyup.io/)
-
+Formatters
+++++++++++
+``black``: The uncompromising code formatter (`link <https://github.com/ambv/black>`_)
+``yapf``: Yet Another Python Formatter, by Google (`link <https://github.com/google/yapf>`_)
 
