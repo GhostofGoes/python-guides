@@ -65,12 +65,9 @@ Parsing YAML files with PyYAML
       from yaml import Loader
 
    def parse_yaml(filename):
-      """
-      Parses a YAML file and returns a nested dictionary containing its contents.
+      """Parses a YAML file and returns a nested dictionary containing its contents.
       :param str filename: Name of YAML file to parse
-      :return: Parsed file contents
-      :rtype: dict or None
-      """
+      :return: Parsed file contents"""
       try:
          # Enables use of stdin if '-' is specified
          with sys.stdin if filename == '-' else open(filename) as f:
