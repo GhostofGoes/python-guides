@@ -48,8 +48,9 @@ Create a Python 2 one:
    python -m pip install --user -U virtualenv
    python -m virtualenv ~/py2env
    source ~/py2env/bin/activate
+
 Python 3:
-..code-block: bash
+.. code-block: bash
    python3 -m pip install --user -U virtualenv
    python3 -m virtualenv --python=python3 ~/py3env
    source ~/py3env/bin/activate
