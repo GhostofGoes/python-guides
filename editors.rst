@@ -14,6 +14,24 @@ Editors
 +++++++
 
 
+TODO: How do I do a table in RST?
+Cross-platform
+* Visual Studio Code (VSCode)
+* Atom
+
+
+Windows
+* Notepad++
+* Notepad2
+
+Linux
+* GNOME Editor (gedit)
+* kedit?
+* 
+
+OSX
+* Who knows?
+
 IDEs
 ++++
 
@@ -21,6 +39,9 @@ IDEs
 PyCharm
 -------
 
+
+Spyder
+Visual Studio
 
 
 
@@ -35,5 +56,8 @@ You can use Pycharm's default folder or select your own
 You can mange packages from the same area in settings
 Or open a terminal and activate the environment yourself
 
+* How to setup pipenv
+* How to use a virtual environment
+* How to use a remote interpreter (WSL + other)
 
 This guide is dedicated to ClayTheArc.
