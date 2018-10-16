@@ -14,11 +14,13 @@ Editors
 +++++++
 
 
+
 TODO: How do I do a table in RST?
 Cross-platform
 * Visual Studio Code (VSCode)
 * Atom
-
+* Mu editor (best for beginners)
+* Sublime
 
 Windows
 * Notepad++
